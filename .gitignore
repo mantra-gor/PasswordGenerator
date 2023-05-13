@@ -1,0 +1,5 @@
+# ignore ALL .txt files (basically its my testing temp files)
+*.txt
+
+# # ignore Mac File System files
+*.DS_Store
